@@ -1,0 +1,26 @@
+/* Basado en los ejemplos anteriores, con adiciones para el Ejemplo 8 */
+body {
+    font-family: "Tahoma";
+    font-size: 14px; /* Se mantiene el tamaño de fuente del Ejemplo 6 */
+}
+
+form {
+    padding: 10px;
+    margin: 0;
+    width: 250px;
+    border: 1px solid darkgray;
+}
+
+input {
+    font-family: Tahoma;
+    font-size: 14px;
+    width: 240px;
+}
+
+textarea { /* Estilos para el área de texto (Mensaje) */
+    width: 240px;
+    height: 140px;
+    border: 1px solid;
+    border-width: 1px;
+    background-color: #E7E7E7;
+}
